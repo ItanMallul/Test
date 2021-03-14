@@ -1,2 +1,4 @@
 # Test
- Testing Git
+ Testing Git 
+ Checking how to upload
+
